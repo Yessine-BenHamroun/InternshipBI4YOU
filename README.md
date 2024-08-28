@@ -18,6 +18,17 @@ This project aims to develop an automated application for extracting and process
 - **Transformers**: For leveraging AI models for document question-answering.
 - **Pillow (PIL)**: For image processing.
 - **pdf2image**: For converting PDF pages to images.
+- **PyCharm**: IDE for integrated development and debugging.
+- **GitHub**: For version control and collaboration.
+
+<div style="text-align: center">
+    <img src="assets/icons/streamlit.jpg" style="width:60px; height:60px; display: inline-block; margin-right: 10px; border-radius: 10px;">
+    <img src="assets/icons/snowflake.png" style="width:105px; height:60px; display: inline-block; margin-right: 10px;">
+    <img src="assets/icons/transformers.png" style="width:60px; height:60px; display: inline-block; margin-right: 25px;">
+    <img src="assets/icons/pillow.png" style="width:60px; height:60px; display: inline-block; margin-right: 25px;">
+    <img src="assets/icons/pycharm.png" style="width:60px; height:60px; display: inline-block; margin-right: 25px;">
+    <img src="assets/icons/github.png" style="width:60px; height:60px; display: inline-block; margin-right: 100px;">
+</div>
 
 <hr style="border: 2px solid darkgray;">
 
