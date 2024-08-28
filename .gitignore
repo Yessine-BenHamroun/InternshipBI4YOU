@@ -1,0 +1,15 @@
+# Ignore the .env file containing sensitive environment variables
+.env
+
+# Other common ignores
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.DS_Store
+
+# Personnal ignores
+connection.py
+test.py
+test2.py
+test3.py
