@@ -70,6 +70,10 @@ This project aims to develop an automated application for extracting and process
 ---
    ![Upload Phase](assets/img/upload.png)
 
+As we can see, we uploaded 3 files:
+
+![uploaded files](assets/img/uploadedfiles.png)
+
 2. **Select Database: Choose the Snowflake database you want to use.**
 ---
 ![DB dropdown](assets/img/db_dd.png)
