@@ -75,7 +75,7 @@ This project aims to develop an automated application for extracting and process
 
 Content of one of the three files to know their structure:
 
-![uploaded files](assets/img/uploadedfiles.png)
+![uploaded files](assets/img/invoice.png)
 
 2. **Select Database: Choose the Snowflake database you want to use.**
 ---
