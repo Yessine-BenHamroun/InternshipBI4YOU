@@ -18,7 +18,6 @@ This project aims to develop an automated application for extracting and process
 - **Transformers**: For leveraging AI models for document question-answering.
 - **Pillow (PIL)**: For image processing.
 - **pdf2image**: For converting PDF pages to images.
-- **PyCharm**: IDE for integrated development and debugging.
 - **GitHub**: For version control and collaboration.
 
 <div style="text-align: center">
@@ -26,7 +25,6 @@ This project aims to develop an automated application for extracting and process
     <img src="assets/icons/snowflake.png" style="width:105px; height:60px; display: inline-block; margin-right: 10px;">
     <img src="assets/icons/transformers.png" style="width:60px; height:60px; display: inline-block; margin-right: 25px;">
     <img src="assets/icons/pillow.png" style="width:60px; height:60px; display: inline-block; margin-right: 25px;">
-    <img src="assets/icons/pycharm.png" style="width:60px; height:60px; display: inline-block; margin-right: 25px;">
     <img src="assets/icons/github.png" style="width:60px; height:60px; display: inline-block; margin-right: 100px;">
 </div>
 
@@ -34,18 +32,23 @@ This project aims to develop an automated application for extracting and process
 
 ## 🔧 Installation
 
-1. **Clone the Repository**
+1. **Download or clone the repository**
 
    ```bash
    git clone https://github.com/Yessine-BenHamroun/BI4YOU_Project.git
    cd <repository-directory>
-
-2. **Install Required Libraries**
+2. **Create a fresh Virtual Environment**
+    ```bash
+     python -m venv <name_of_the_venv>
+3. **Activate the Virtual Environment**
+    ```bash
+    <name_of_the_venv>\Scripts\activate
+4. **Install Required Libraries**
 
    ```bash
    pip install -r requirements.txt
 
-3. **Setup Environment Variables**\
+5. **Setup Environment Variables**\
    Create a .env file in the root directory and add your Snowflake credentials:
 
    ```bash
@@ -70,7 +73,7 @@ This project aims to develop an automated application for extracting and process
 ---
    ![Upload Phase](assets/img/upload.png)
 
-As we can see, we uploaded 3 files:
+Content of one of the three files to know their structure:
 
 ![uploaded files](assets/img/uploadedfiles.png)
 
