@@ -71,7 +71,7 @@ This project aims to develop an automated application for extracting and process
 
 1. **Upload Data: Import your documents (PDFs or images) to be processed by pressing on "Browse files".**
 ---
-   ![Upload Phase](assets/img/upload.png)
+![Upload Phase](assets/img/upload.png)
 
 Content of one of the three files to know their structure:
 
@@ -112,8 +112,6 @@ You can preview results in full screen as well to help you manage multiple data.
 Uploaded data to Snowflake:
 
 ![snowflake table](assets/img/snowflakedata.png)
-
-Address column is null because we didn't mention it in the quesions above.
 <hr style="border: 2px solid darkgray;">
 
 ## 🚀 Features
