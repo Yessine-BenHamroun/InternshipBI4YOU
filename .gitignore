@@ -1,21 +1,19 @@
-# Ignore the .env file containing sensitive environment variables
+# Ignore the .env file
 .env
+
+# Ignore the virtual environment directory
 venv/
+
 # Ignore PyCharm settings
 .idea/
 
 # Ignore Python cache files
+__pycache__/
 *.pyc
 
+
 # Other common ignores
-__pycache__/
 *.py[cod]
 *.sqlite3
 *.log
 *.DS_Store
-
-# Personnal ignores
-connection.py
-test.py
-test2.py
-test3.py
