@@ -109,6 +109,8 @@ You can preview results in full screen as well to help you manage multiple data.
 Uploaded data to Snowflake:
 
 ![snowflake table](assets/img/snowflakedata.png)
+
+Address column is null because we didn't mention it in the quesions above.
 <hr style="border: 2px solid darkgray;">
 
 ## 🚀 Features
