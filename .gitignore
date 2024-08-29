@@ -1,5 +1,11 @@
 # Ignore the .env file containing sensitive environment variables
 .env
+venv/
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Python cache files
+*.pyc
 
 # Other common ignores
 __pycache__/
